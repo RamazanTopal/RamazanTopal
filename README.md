@@ -15,4 +15,4 @@ Hardworking, social, passionate about software
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamazanTopal)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamazanTopal&langs_count=8)
+
