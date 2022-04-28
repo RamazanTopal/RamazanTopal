@@ -3,12 +3,11 @@
 💻👨‍💻 Backend Developer
 ### Who am I?
 I'm Ramazan from Turkey,and I am interested in backend programming language.I really enjoy learning languages
-and frameworks like Express Js and Flask,as well as work in WordPress.
-
+and new technology.I know NodeJs,Docker,Socket,AWS,Jest...
 Hardworking, social, passionate about software
 
-- 🔭 I’m currently working food delivery system 
-- 🌱 I’m currently learning flask
+- 🔭 I’m currently working rent a car project 
+- 🌱 I’m currently learning AWS services
 - 📫 How to reach me: www.linkedin.com/in/ramazan-topal
 
 
